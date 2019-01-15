@@ -2,7 +2,7 @@ using System;
 
 namespace controle_armazenamento
 {
-    abstract class Produto
+    public abstract class Produto
     {
 
         public String itemNome { get; set; }

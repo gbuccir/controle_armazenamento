@@ -6,16 +6,8 @@ namespace controle_armazenamento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(printarNome());
-
-          //  Produto p = new Produto();
-            //p.quantidade = 5;
-            //Console.WriteLine(p.retornaQuantidade());
+// criação das configs para rodar como server
         }
 
-        public static String printarNome()
-        {
-            return "GiU";
-        }
     }
 }

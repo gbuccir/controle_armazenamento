@@ -9,3 +9,14 @@ C:\Users\Giuliano\Desktop\controle estoque\controle_armazenamento\bin\Debug\netc
 C:\Users\Giuliano\Desktop\controle estoque\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.pdb
 C:\Users\Giuliano\Desktop\controle estoque\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.dll
 C:\Users\Giuliano\Desktop\controle estoque\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.pdb
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.deps.json
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.runtimeconfig.json
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.runtimeconfig.dev.json
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.dll
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\bin\Debug\netcoreapp2.1\controle_armazenamento.pdb
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.csprojAssemblyReference.cache
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.csproj.CoreCompileInputs.cache
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.AssemblyInfoInputs.cache
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.AssemblyInfo.cs
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.dll
+C:\Users\indefinido\Desktop\peojeto_dotnet\controle_armazenamento\obj\Debug\netcoreapp2.1\controle_armazenamento.pdb
