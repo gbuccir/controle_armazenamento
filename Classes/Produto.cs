@@ -2,13 +2,19 @@ using System;
 
 namespace controle_armazenamento
 {
-    class Produto
+    abstract class Produto
     {
-        
-        public int quantidade { get; set; }
 
-        public int retornaQuantidade(){
+        public String itemNome { get; set; }
+        public int quantidade { get; set; }
+        public String itemDescricao { get; set; }
+        public String itemMarca { get; set; }
+        public float nomeItem { get; set; }
+        public CategoriaEnum categoria { get; set; }
+        
+        /*public int retornaQuantidade()
+        {
             return quantidade * 2;
-        }
+        }*/
     }
 }
