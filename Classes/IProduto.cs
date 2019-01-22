@@ -4,7 +4,7 @@ using controle_armazenamento;
 namespace Classes
 {
 
-    public interface IProduto<T> where T : Produto
+    public interface IProduto<T> //where T : Produto
     {
         void Cadastrar(T document);
 
